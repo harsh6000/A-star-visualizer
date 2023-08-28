@@ -17,11 +17,6 @@ Color Code:
 pip install pygame
 ```
 
-## Installation
-
-``` bash
-git clone https://github.com/Prateek1013/A-star-visualizer.git
-```
 
 ## Usage
 
